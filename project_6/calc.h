@@ -43,7 +43,6 @@ private slots:
     void clearAll();
     //-------------------- lab:1-2-3
     void lab_oneClicked();
-//--------------------- strange signal
     void labelRead();
     void readMainDATA();
     void processing();
