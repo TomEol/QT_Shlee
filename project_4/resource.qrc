@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="DATA.txt">all_data.txt</file>
+        <file>FISHER.txt</file>
+        <file>STUD.txt</file>
+        <file>STATIC.txt</file>
+    </qresource>
+</RCC>
